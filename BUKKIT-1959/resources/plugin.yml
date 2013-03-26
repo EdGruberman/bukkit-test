@@ -1,0 +1,13 @@
+name: BUKKIT-1959
+version: @VERSION@
+description: Test plugin
+author: EdGruberman (ed@rjump.com)
+website: http://github.com/EdGruberman/Test/BUKKIT-1959
+main: edgruberman.bukkit.bukkit_1959.Main
+commands:
+  'bukkit-1959:cancel':
+    description: Toggle cancellation of ItemMergeEvent
+  'bukkit-1959:entity':
+    description: Set ItemMergeEvent entity ItemStack to clone of ItemStack in hand (have nothing in hand to revert to not changing)
+  'bukkit-1959:other':
+    description: Set ItemMergeEvent other ItemStack to clone of ItemStack in hand (have nothing in hand to revert to not changing)
