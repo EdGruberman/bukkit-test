@@ -1,0 +1,6 @@
+name: BUKKIT-3618
+version: @VERSION@
+description: Test plugin
+author: EdGruberman (ed@rjump.com)
+website: http://github.com/EdGruberman/Test/BUKKIT-3618
+main: edgruberman.bukkit.bukkit_3618.Main
