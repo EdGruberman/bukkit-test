@@ -1,0 +1,6 @@
+name: BUKKIT-2368
+version: @VERSION@
+description: Test plugin
+author: EdGruberman (ed@rjump.com)
+website: http://github.com/EdGruberman/bukkit-test/BUKKIT-2368
+main: edgruberman.bukkit.bukkit_2368.Main
